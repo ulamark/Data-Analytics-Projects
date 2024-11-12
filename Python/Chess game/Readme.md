@@ -18,7 +18,7 @@ A terminal or command-line interface
 
 **Running the Program**
 
-To run the Chess Capture Checker, use the following command in your terminal: python chess_project.py .
+To run the Chess Capture Checker, use the following command in your terminal: python chess_capture_project.py .
 
 The code is originally written on cs50dev virtual environment.
 
