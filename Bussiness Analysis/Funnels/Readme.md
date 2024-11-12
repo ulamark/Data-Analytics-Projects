@@ -4,7 +4,9 @@ This project aims to analyze data from the Google Merch Shop using funnel analys
 
 The project explores differences and common trends among the top three countries, identified based on their total number of events. Insights are visualized in a funnel chart to highlight performance by country.
 
-Here is a [link](https://docs.google.com/spreadsheets/d/1tBMJN1wYyXQJIpK-qkJeJnLJUfRJ_vSYtXzVTgkyTrw/edit?usp=sharing) to a project on Funnels. It includes the necessary SQL queries, results, funnel analysis table with insights. This [link](https://public.tableau.com/app/profile/ula.markeviciene/viz/FunnelAnalysis_17249359743610/DashboardFunnel) provides and funnel analysis visuals made with Tableau.
+Here is a [link](https://docs.google.com/spreadsheets/d/1tBMJN1wYyXQJIpK-qkJeJnLJUfRJ_vSYtXzVTgkyTrw/edit?usp=sharing) to a project on Funnels. It includes the necessary SQL queries, results, funnel analysis table with insights. 
+
+This [link](https://public.tableau.com/app/profile/ula.markeviciene/viz/FunnelAnalysis_17249359743610/DashboardFunnel) provides and funnel analysis visuals made with Tableau.
 
 ## Results and Conclusions
 
