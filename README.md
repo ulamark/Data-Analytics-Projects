@@ -15,5 +15,6 @@ This repository contains the main projects completed during the Data Analytics p
    -  _Coursera Courses Analysis_: Data visualization and insights of Coursera course data with Plotly.
 4. Bussiness analysis
    -  Retention, Cohorts & Churn Analysis.
-   -  Funnels & A/B Testing.
+   -  Funnels.
+   -  A/B Testing.
    -  Customer Lifetime Value, Customer Segmentation & RFM Analysis.
