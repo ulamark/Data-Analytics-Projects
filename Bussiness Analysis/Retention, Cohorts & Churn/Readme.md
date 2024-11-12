@@ -1,7 +1,6 @@
 # Retention, Cohorts & Churn
 
-This project using Google Spreadsheets and BigQuery analyzes customer Retention, Cohorts & Churn. It shows how subscriptions churn looks like from a weekly retention standpoint.
-Weekly subscriptions data analysis shows how many subscribers started their subscription in a particular week and how many remain active in the following 6 weeks. 
+This project uses Google Spreadsheets and BigQuery to analyze customer retention, cohorts, and churn. It provides insights into subscription churn from a weekly retention perspective. The analysis tracks weekly subscription data, showing how many customers started their subscriptions in a particular week and how many remained active over the following six weeks.
 
 Here is a [link](https://docs.google.com/spreadsheets/d/1hRxGVRxs55Vh-XbRqOsOLSKZ2hQ1pXW9_mohi2iJXSw/edit?usp=sharing) to a project on Retention, Cohorts & Churn. It includes the necessary SQL queries, results, and customer retention visuals and insights.
 
