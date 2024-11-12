@@ -1,6 +1,7 @@
 # Data Analysis of Coursera Course Data: Focus on Python Visualization
 
 **Overview**
+
 This project, titled **"coursera_course_project"**, presents an exploratoyr analysis of Coursera courses. It leverages a dataset sourced from Kaggle, consisting of 890 observations, where each row represents a course and columns represent various attributes associated with the courses. The analysis aims to answer key questions: which Coursera courses and attributes are the most popular, and which courses are worth investing in to attract more students?
 
 **Features**
