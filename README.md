@@ -17,4 +17,3 @@ This repository contains the main projects completed during the Data Analytics p
    -  Retention, Cohorts & Churn Analysis.
    -  Funnels.
    -  A/B Testing.
-   -  Customer Lifetime Value, Customer Segmentation & RFM Analysis.
