@@ -10,7 +10,7 @@ This repository contains the main projects completed during the Data Analytics p
    - Interactive dashboard for data insights.
    - Analysis of _AdventureWorks_ company data, presented in PowerPoint.
 3. Python
-   -  Chess game
+   -  Chess capture game
    -  _Spotify Tracks Analysis_: Analyzing the top 50 Spotify tracks using Pandas.
    -  _Coursera Courses Analysis_: Data visualization and insights of Coursera course data with Plotly.
 4. Bussiness analysis
