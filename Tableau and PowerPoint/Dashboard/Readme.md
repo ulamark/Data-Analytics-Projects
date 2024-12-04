@@ -11,4 +11,16 @@ This project provides insights into the performance of the AdventureWorks 2005 c
 - Global Sales Distribution.
 - Product Categories and Subcategories.
 
+# Superstore Sales Dashboard
 
+This dashboard was created using the Superstore Sales sample dataset. It showcases sales data for a fictional retail company, providing insights over a four-year period (2014–2017).
+
+**[Second Dashboard](https://public.tableau.com/views/Superstoredashboard_17332525003460/SuperstoreDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) includes:**
+- Main KPIs.
+- Monthly sales YoY.
+- Monthly Sales with highest peak and lowest point.
+- Sales, Profit or Loss by Product Category and Subcategory.
+- Profit YoY.
+- Profit by Customer Segment.
+- Interactive Treemap of total sales by region and state.
+- Dynamic Filters for region, state, customer segment, and year.
