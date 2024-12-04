@@ -7,7 +7,7 @@ This repository contains the main projects completed during the Data Analytics p
 1. BigQuery
    - Advanced SQL analysis of the _AdventureWorks_ company data.
 2. Tableau and PowerPoint
-   - Interactive dashboard for data insights.
+   - Interactive dashboards for data insights.
    - Analysis of _AdventureWorks_ company data, presented in PowerPoint.
 3. Python
    -  Chess capture game
