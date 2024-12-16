@@ -16,7 +16,7 @@ This dashboard was created using the Superstore Sales sample dataset. It showcas
 
 This project provides insights into the performance of the AdventureWorks 2005 company using data from its database. The result is an interactive multi-page dashboard created in Tableau. Different dashboard pages can be accessed via buttons in the top left corner.
 
-**[Second Dashboard](https://public.tableau.com/shared/W2WJ4P6JH?:display_count=n&:origin=viz_share_link) includes:**
+**[Second Dashboard](https://public.tableau.com/views/AdventureWorksForPPT/D_SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) includes:**
 - Main KPIs.
 - Monthly sales YoY.
 - Seasonal Sales trends.
