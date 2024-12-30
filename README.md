@@ -6,6 +6,7 @@ This repository contains the main projects completed during the Data Analytics p
 
 1. BigQuery
    - Advanced SQL analysis of the _AdventureWorks_ company data.
+   - SQL and Google Spreadsheets duo analyzing purchases data of the _Google Merch Shop_ data.
 2. Tableau and PowerPoint
    - Interactive dashboards for data insights.
    - Analysis of _AdventureWorks_ company data, presented in PowerPoint.
